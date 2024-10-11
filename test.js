@@ -1,7 +1,9 @@
+// Ex1
+
 // let userN = "hamza";
 // console.log("Bonjour ," + userN );
 
-
+ // EX2
 // let a = 32 ; 
 // let b=51 ; 
 
@@ -9,12 +11,15 @@
 // console.log(a-b);
 // console.log(a*b);
 // console.log(a/b);
-
+//Ex3
 
 // let nom= "echchabli ";
 // let prenom="hamza";
 
 // console.log(nom + prenom);
+
+
+//Ex4
 
 // let age= 19 ;
 // let majeur=true ; 
@@ -26,6 +31,7 @@
 
 // console.log(majeur);
 
+//Ex5
 
 // let x = 4;
 // let y=3 ; 
